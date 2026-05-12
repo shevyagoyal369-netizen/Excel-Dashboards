@@ -37,7 +37,7 @@ including call volumes, revenue, agent ratings and customer demographics.
 4. Cleveland had the highest female caller ratio
 
 ### 📷 Dashboard Preview
-"C:\Users\intel\Downloads\dashboard.jpeg"
+![dashboard image](dashboard.jpeg)
 
 ---
 
